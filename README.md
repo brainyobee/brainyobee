@@ -64,7 +64,6 @@ I am dedicated front-end and backend dev <img src="https://media.giphy.com/media
  <img  align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="26px" />
 
  <br/>
-
 <br/>
 
 <hr />
