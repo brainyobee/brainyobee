@@ -26,7 +26,7 @@
 
 ## **About Me**
 
-I am motivated front-end and backend dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with comprehensive skills in Javascript and ReactJS. I'm also a fast-learner with a willingness to learn new technologies and languages. I'm always a code a way from solving a tech problem.
+I am dedicated front-end and backend dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with comprehensive skills in Javascript and ReactJS. I'm also a fast-learner with a willingness to learn new technologies and languages. I'm always a code a way from solving a tech problem.
 
 - 🌱 Exploring blockchain technology and the metaverse
 - 👯 Willing to collaborate on market-defining projects
