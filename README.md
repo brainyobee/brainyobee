@@ -1,14 +1,32 @@
-## Hello👋, I'm Brayarn, a fullstack developer, who is always a code a way from solving a tech problem.
+<div align="center">
+  <div id="header">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
+</div>
 
-📫 [Twitter](https://twitter.com/bad_karma) | [LinkedIn](https://www.linkedin.com/in/brayarn/) <br/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/brayarn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/brainyobee">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  <img src="https://gpvc.arturio.dev/o-brayarn"/>
 
-![Profile views](https://gpvc.arturio.dev/o-brayarn)
+  <h1>
+  Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm brayarn, a fullstack dev. 
+</h1>
+</div>
+
+<!-- 📫 [Twitter](https://twitter.com/brainyobee) | [LinkedIn](https://www.linkedin.com/in/brayarn/) <br/> -->
+
+<!-- <h position="center">![Profile views](https://gpvc.arturio.dev/o-brayarn) </h> -->
 
 <hr />
 
 ## **About Me**
 
-I am motivated front-end and backend dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with comprehensive skills in Javascript and ReactJS. I'm also a fast-learner with a willingness to learn new technologies and languages.
+I am motivated front-end and backend dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with comprehensive skills in Javascript and ReactJS. I'm also a fast-learner with a willingness to learn new technologies and languages. I'm always a code a way from solving a tech problem.
 
 - 🌱 Exploring blockchain technology and the metaverse
 - 👯 Willing to collaborate on market-defining projects
