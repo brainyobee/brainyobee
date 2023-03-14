@@ -14,7 +14,7 @@
   <img src="https://gpvc.arturio.dev/o-brayarn"/>
 
   <h1>
-  Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm brayarn, a fullstack dev. 
+  Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm brayarn, a software developer.
 </h1>
 </div>
 
@@ -26,7 +26,7 @@
 
 ## **About Me**
 
-I am dedicated front-end and backend dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with comprehensive skills in Javascrip, ReactJS, and Ruby on Rails. I'm also a fast-learner with a willingness to learn new technologies and languages. I'm always a code a way from solving a tech problem.
+I am dedicated front-end and backend dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with comprehensive skills in Javascript, ReactJS, and Ruby on Rails. I'm also a fast-learner with a willingness to learn new technologies and languages. I'm always a code a way from solving a tech problem.
 
 - 🌱 Exploring blockchain technology and the metaverse
 - 👯 Willing to collaborate on market-defining projects
