@@ -26,7 +26,7 @@
 
 ## **About Me**
 
-I am dedicated front-end and backend dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with comprehensive skills in Javascript, ReactJS, and Ruby on Rails. I'm also a fast-learner with a willingness to learn new technologies and languages. I'm always a code a way from solving a tech problem.
+I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with comprehensive skills in Javascript, ReactJS, and Ruby on Rails. I'm also a fast-learner with a willingness to learn new technologies and languages. I'm always a code a way from solving a tech problem.
 
 - 🌱 Exploring blockchain technology and the metaverse
 - 👯 Willing to collaborate on market-defining projects
@@ -76,4 +76,4 @@ I am dedicated front-end and backend dev <img src="https://media.giphy.com/media
 
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=o-brayarn&layout=compact"/>
 
-<img align = "left" width = "47%" src = "https://www.codewars.com/users/the_bored_ape/badges/large"/> <br/>
+<img align = "left" width = "47%" src = "https://www.codewars.com/users/bad-code/badges/large"/> <br/>
