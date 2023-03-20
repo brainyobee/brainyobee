@@ -72,10 +72,10 @@ I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 <img align = "left" width = "48%" src = "http://github-readme-streak-stats.herokuapp.com/?user=o-brayarn&theme=radical"/>
 
-<img align = "rigt" width = "48%" src = "https://github-readme-stats.vercel.app/api?username=o-brayarn&show_icons=true&theme=radical"/>
+<img align = "right" width = "48%" src = "https://github-readme-stats.vercel.app/api?username=o-brayarn&show_icons=true&theme=radical"/>
 
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=o-brayarn&layout=compact"/>
 
-<img align = "left" width = "47%" src = "https://www.codewars.com/users/bad-code/badges/large"/> <br/>
+<img align = "right" width = "47%" src = "https://www.codewars.com/users/bad-code/badges/large"/> <br/>
 
-![Brayarn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brayarn&theme=gotham&layout=compact)
+<img align = "left" width = "100%" src = "https://github-readme-stats.vercel.app/api/wakatime?username=brayarn&theme=gotham&layout=compact"/>
