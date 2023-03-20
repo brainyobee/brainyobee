@@ -82,3 +82,8 @@ I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCE
 <div align="center">
 <img width = "80%" src = "https://github-readme-stats.vercel.app/api/wakatime?username=brayarn&theme=gotham&layout=compact"/>
 <div>
+
+## Contributions
+![Brayarn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=o-brayarn&theme=gotham)
+
+<!-- (https://github.com/o-brayarn/github-readme-activity-graph) -->
