@@ -75,7 +75,7 @@ I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCE
 <img width = "47%" src = "https://github-readme-stats.vercel.app/api?username=o-brayarn&show_icons=true&theme=radical"/>
 
 <img align="left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=o-brayarn&layout=compact"/>
-<br/><br/>
+<br/><br/><br/>
 
 <img width = "47%" src = "https://www.codewars.com/users/bad-code/badges/large"/><br /><br /><br />
 
