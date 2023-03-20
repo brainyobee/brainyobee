@@ -79,7 +79,6 @@ I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 <img width = "47%" src = "https://www.codewars.com/users/bad-code/badges/large"/><br /><br /><br /><br /><br /><br />
 
-<hr>
 <div align="center">
 <img width = "80%" src = "https://github-readme-stats.vercel.app/api/wakatime?username=brayarn&theme=gotham&layout=compact"/>
 <div>
