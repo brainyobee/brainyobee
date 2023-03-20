@@ -77,3 +77,5 @@ I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCE
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=o-brayarn&layout=compact"/>
 
 <img align = "left" width = "47%" src = "https://www.codewars.com/users/bad-code/badges/large"/> <br/>
+
+![Brayarn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brayarn&theme=gotham&layout=compact)
