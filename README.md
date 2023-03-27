@@ -79,12 +79,9 @@ I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 <img width = "47%" src = "https://www.codewars.com/users/bad-code/badges/large"/><br /><br /><br /><br /><br /><br />
 
-<!-- <div align="center">
-<img width = "80%" src = "https://github-readme-stats.vercel.app/api/wakatime?username=brayarn&theme=gotham&layout=compact"/>
-</div> -->
 
 <hr />
 
 ## Contributions
-
+> Expand here to see my github contribution stats
 [![Brayarn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=o-brayarn&theme=gotham)](https://github.com/o-brayarn/github-readme-activity-graph)
