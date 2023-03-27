@@ -26,7 +26,9 @@
 
 ## **About Me**
 
-I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with comprehensive skills in Javascript, ReactJS, and Ruby on Rails. I'm also a fast-learner with a willingness to learn new technologies and languages. I'm always a code a way from solving a tech problem.
+> I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with comprehensive skills in Javascript, ReactJS, and Ruby on Rails. I'm also a fast-learner with a willingness to learn new technologies and languages. I'm always a code a way from solving a tech problem.
+
+I am:
 
 - 🌱 Exploring blockchain technology and the metaverse
 - 👯 Willing to collaborate on market-defining projects
@@ -37,8 +39,9 @@ I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ## 🛠️ Languages and Tools
 
-### **Main tools:**
-
+<details>
+<summary><b>Main Tools: </b></summary>
+<!-- <br /> -->
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt ="ReactJS" width="26px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="26px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" alt="Ruby" width="26px" />
@@ -46,16 +49,17 @@ I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCE
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="26px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="26px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="26px" />
-
-<!-- Create on a new line -->
-
+</details>
 <br />
 
 <br />
 
-### **Additional tools:**
+<details>
+<summary><b>Additional Tools: </b></summary>
 
- <img  align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="26px"/>
+<br />
+
+<img  align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" width="26px"/>
  <img  align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="26px"/>
  <img  align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="26px"/>
  <img  align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="26px"/>
@@ -63,16 +67,17 @@ I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCE
  <img  align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="26px"/>
  <img  align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="26px" />
 
+</details>
+
  <br/>
-<br/>
 
 <hr />
 
 ## My Stats
 
 <details>
-<summary>Click to check the stats</summary>
-
+<summary>Github Stats</summary>
+<br />
 <img align="left" width = "48%" src = "http://github-readme-streak-stats.herokuapp.com/?user=o-brayarn&theme=radical"/>
 
 <img width = "47%" src = "https://github-readme-stats.vercel.app/api?username=o-brayarn&show_icons=true&theme=radical"/>
@@ -84,13 +89,12 @@ I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 </details>
 
-
 <hr />
 
 ## Contributions
 
 <details>
-<summary>Contributions</summary>
+<summary>Contribution Graph</summary>
 
 [![Brayarn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=o-brayarn&theme=gotham)](https://github.com/o-brayarn/github-readme-activity-graph)
 
