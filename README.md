@@ -70,6 +70,9 @@ I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 ## My Stats
 
+<details>
+<summary>Click to check the stats</summary>
+
 <img align="left" width = "48%" src = "http://github-readme-streak-stats.herokuapp.com/?user=o-brayarn&theme=radical"/>
 
 <img width = "47%" src = "https://github-readme-stats.vercel.app/api?username=o-brayarn&show_icons=true&theme=radical"/>
@@ -79,10 +82,16 @@ I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 <img width = "47%" src = "https://www.codewars.com/users/bad-code/badges/large"/><br /><br /><br /><br /><br /><br />
 
+</details>
+
+
 <hr />
 
 ## Contributions
 
-> #### Expand here to see my github contribution stats
->
-> [![Brayarn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=o-brayarn&theme=gotham)](https://github.com/o-brayarn/github-readme-activity-graph)
+<details>
+<summary>Contributions</summary>
+
+[![Brayarn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=o-brayarn&theme=gotham)](https://github.com/o-brayarn/github-readme-activity-graph)
+
+</details>
