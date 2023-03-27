@@ -39,9 +39,8 @@ I am:
 
 ## 🛠️ Languages and Tools
 
-<details>
-<summary><b>Main Tools: </b></summary>
-<!-- <br /> -->
+### **Main Tools**
+
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt ="ReactJS" width="26px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="26px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" alt="Ruby" width="26px" />
@@ -49,7 +48,7 @@ I am:
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="26px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="26px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="26px" />
-</details>
+
 <br />
 
 <br />
