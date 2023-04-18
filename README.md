@@ -13,7 +13,7 @@
 </div>
   <img src="https://gpvc.arturio.dev/o-brayarn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&height=48&lines=Hello+There.+I'm+brayarn%2C+;a+certified+software+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&height=48&lines=Hello+There.+I'm+brayarn+.+.+.;a+certified+software+developer)](https://git.io/typing-svg)
 
   <!-- <h1>
   Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm brayarn, a software developer.
