@@ -28,11 +28,11 @@
 
 ## **About Me**
 
-> I am dedicated fullstack dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with comprehensive skills in Javascript, ReactJS, and Ruby on Rails. I'm also a fast-learner with a willingness to learn new technologies and languages. I'm always a code a way from solving a tech problem.
+> I am dedicated fullstack dev <img src="https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif" width="35"> with comprehensive skills in Javascript, ReactJS, and Ruby on Rails. I'm also a fast-learner with a willingness to learn new technologies and languages. I'm always a code a way from solving a tech problem.
 
 I am:
 
-- 🌱 Exploring blockchain technology and the metaverse
+- <img src="https://media.giphy.com/media/WSsWHM5CmbmOvDadKp/giphy.gif" width="20" height="20" /> Exploring blockchain technology and the metaverse
 - 👯 Willing to collaborate on market-defining projects
 - ⚡ Exploring the UI/UX side of web dev
 - 💬 Reach out for blockchain-related technical writing and front-end-related problems
