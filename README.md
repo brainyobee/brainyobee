@@ -15,14 +15,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&height=48&lines=Hello+There.+I'm+brayarn+.+.+.;a+certified+software+developer)](https://git.io/typing-svg)
 
-  <!-- <h1>
-  Hello there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm brayarn, a software developer.
-</h1> -->
 </div>
-
-<!-- 📫 [Twitter](https://twitter.com/brainyobee) | [LinkedIn](https://www.linkedin.com/in/brayarn/) <br/> -->
-
-<!-- <h position="center">![Profile views](https://gpvc.arturio.dev/o-brayarn) </h> -->
 
 <hr />
 
@@ -89,8 +82,14 @@ I am:
 <img width = "47%" src = "https://www.codewars.com/users/bad-code/badges/large"/><br /><br /><br /><br /><br /><br />
 
 </details>
+<br />
+<details>
+<summary>Wakatime Stats</summary>
+<br />
 
-<hr />
+![brayarn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brayarn&theme=gotham&layout=compact)
+
+</details>
 
 ## Contributions
 
