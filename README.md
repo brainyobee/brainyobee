@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://gpvc.arturio.dev/o-brayarn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&height=48&lines=Hello+There.+I'm+brayarn+.+.+.;a+certified+software+developer)](https://git.io/typing-svg)
 
@@ -91,11 +90,11 @@ I am:
 
 </details>
 
-## Contributions
+<!-- ## Contributions -->
 
-<details>
+<!-- <details>
 <summary>Contribution Graph</summary>
 
 [![Brayarn's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=o-brayarn&theme=gotham)](https://github.com/o-brayarn/github-readme-activity-graph)
 
-</details>
+</details> -->
